@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="149mm"
+   width="105mm">
+  <defs
+     id="defs2">
+        <symbol
+       id="DownArrow">
+      <title
+         id="title1435">Down Arrow</title>
+      <path
+         id="path1437"
+         style="stroke:none;stroke-width:0.26458332"
+         d="M 9.525,16.66875 3.7041667,10.847917 V 6.8791667 L 7.9375,11.1125 V 2.6458333 h 3.175 V 11.1125 l 4.233333,-4.2333333 v 3.9687503 z" />
+    </symbol>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       style="fill:#1ce7eb;fill-opacity:1"
+       transform="translate(27.214285,1.5119048)"
+       id="g9418">
+      <g
+         style="fill:#1ce7eb;fill-opacity:1"
+         id="g9407">
+        <ellipse
+           style="stroke-width:0.26458332;fill:#1ce7eb;fill-opacity:1"
+           ry="14.741072"
+           rx="16.252975"
+           cy="105.36607"
+           cx="28.348215"
+           id="path14" />
+        <ellipse
+           style="stroke-width:0.26458332;fill:#1ce7eb;fill-opacity:1"
+           ry="18.142857"
+           rx="20.410715"
+           cy="91.380951"
+           cx="46.869049"
+           id="path16" />
+        <ellipse
+           style="stroke-width:0.26458332;fill:#1ce7eb;fill-opacity:1"
+           ry="21.166666"
+           rx="22.300594"
+           cy="98.184517"
+           cx="109.99107"
+           id="path18" />
+        <ellipse
+           style="stroke-width:0.26458332;fill:#1ce7eb;fill-opacity:1"
+           ry="26.458332"
+           rx="27.59226"
+           cy="83.821434"
+           cx="75.217262"
+           id="path22" />
+        <rect
+           style="stroke-width:0.2450566;fill:#1ce7eb;fill-opacity:1"
+           y="81.553581"
+           x="30.994047"
+           height="37.797619"
+           width="79.374992"
+           id="rect26" />
+        <use
+           transform="matrix(1,0,0,1.6381696,63.802381,112.54112)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#DownArrow"
+           style="fill:#1ce7eb;stroke:#000000;fill-opacity:1"
+           id="use9364" />
+        <use
+           transform="matrix(1,0,0,1.6381696,23.056547,115.01687)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#DownArrow"
+           style="fill:#1ce7eb;stroke:#000000;fill-opacity:1"
+           id="use9364-3" />
+        <use
+           transform="matrix(1,0,0,1.6381696,95.023208,108.08195)"
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#DownArrow"
+           style="fill:#1ce7eb;stroke:#000000;fill-opacity:1"
+           id="use9364-9" />
+      </g>
+    </g>
+    <text
+       transform="scale(0.95010448,1.0525158)"
+       id="text10257"
+       y="96.713669"
+       x="86.614395"
+       style="font-style:normal;font-weight:normal;font-size:19.93400192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#004e92;fill-opacity:1;stroke:none;stroke-width:0.49835002"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.49835002"
+         id="tspan10255"
+         y="96.713669"
+         x="86.614395"><tspan
+           style="stroke-width:0.49835002"
+           id="tspan10253"
+           y="96.713669"
+           x="86.614395">API</tspan></tspan></text>
+  </g>
+</svg>
